@@ -19,5 +19,32 @@
   },
   "global": {
     "dashboard": "Dashboard"
+  },
+  "privacy": {
+    "descriptions": {
+      "d1": "By adding hedystia to your server, you are accepting the bot policy.\nRemember that you must also inform the users of your server about our policy.\nIf you don't like our policy, you have no right to put the bot on your server.\n\nThis policy is effective as of November 23, 2021 and was last updated on March 28, 2022.",
+      "d2": "For the bot to work we must collect some data from the server and some data from the users.:b::b::m:Server Data::m::b:",
+      "d3": ":p:Channel Names:p:\n:p:Channel Permissions:p:\n:p:Role Information:p:",
+      "d4": ":m:User Data::m:",
+      "d5": ":p:User Avatars:p:\n:p:User Banner:p:\n:p:Username:p:\n:p:User Tags:p:\n:p:User Permits:p:",
+      "d6": ":p:The data of the users, together with the configuration of the server, among more information. It can be removed at any time.:p:\n:p:User data cannot be transferred, that also includes server configuration among other sections.:p:"
+    },
+    "titles": {
+      "t1": "Privacy Policy",
+      "t2": "Stored Data",
+      "t3": "Additional Information"
+    }
+  },
+  "terms": {
+    "descriptions": {
+      "d1": "By adding hedystia to your server you are accepting the terms of our service.\nRemember that you must also tell the users of your server about our terms.\nIf you don't like our terms you have no right to put the bot on your server.\n\nThese terms are effective from November 23, 2021 and were last updated on December 27, 2022.",
+      "d2": "It is forbidden to use hedystia against the :m:ToS De Discord or Illegal Purposes:m:, the developer is avoiding these activities as much as possible while trying to provide the best experience for users.\nIf you find to a user or community that uses Hedystia against :m:Discord ToS:m: or even for :m:Illegal Activities:m: we will beobliged to block it from the bot\nIf it finds any activity of the above mentioned please contact through the following link :l:Hedystia Support Server:l:",
+      "d3": ":p:Access to the sections and features of the bot can be revoked and/or blocked for a specific time or permanently, for all specific users, at any desired time.:p:\n:p:Hedystia is a bot there is no guarantee that it will continue to work in the future, we also do not guarantee that we will continue to use the same commands or the purpose of the bot can change at any time the developer intends it.:p:"
+    },
+    "titles": {
+      "t1": "Terms and Conditions",
+      "t2": "Important",
+      "t3": "Additional Information"
+    }
   }
 }
