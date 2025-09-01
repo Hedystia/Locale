@@ -1,4 +1,22 @@
 {
+  "colors": {
+    "blue": "Blue",
+    "gray": "Gray",
+    "green": "Green",
+    "red": "Red"
+  },
+  "errors": {
+    "404": {
+      "description": "If you are sure you can contact me, if not you can click on the button below to go to the menu.",
+      "title": "Error 404 - Page Not Found",
+      "topic": "Are you sure this site exists?"
+    },
+    "416": {
+      "action": "Go back to the previous page to see the content correctly.",
+      "description": "The page has requested a portion of a resource that is incorrect.",
+      "title": "Error 416 - Range Not Satisfiable"
+    }
+  },
   "global": {
     "dashboard": "Dashboard"
   }
